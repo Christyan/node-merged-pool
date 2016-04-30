@@ -34,7 +34,7 @@
         "url": "https://github.com/Christyan/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "*",
+        "unomp-multi-hashing": "git://github.com/Christyan/node-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
